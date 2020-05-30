@@ -8,3 +8,5 @@ Aula para iniciantes!
 Sou meste no vim.
 
 Cansei, mais uma vez.
+
+Teste para o Diff!
